@@ -52,25 +52,25 @@ export default function Navbar() {
           <div className="collapse navbar-collapse navbar-e" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="#home">Home</a>
+                <a className="nav-link" aria-current="page" href="#Hero">Home</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="#about-section">About Us</a>
+                <a className="nav-link" aria-current="page" href="#AboutUs">About Us</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="#services-section">Services</a>
+                <a className="nav-link" aria-current="page" href="#Services">Services</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="#about-section">About Us</a>
+                <a className="nav-link" aria-current="page" href="#Testimonials">Testimonials</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="#about-section">Testimonials</a>
+                <a className="nav-link" aria-current="page" href="#Team">Team</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="#about-section">Team</a>
+                <a className="nav-link" aria-current="page" href="#PricingPage">Pricing</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="#contactus">Contact Us</a>
+                <a className="nav-link" aria-current="page" href="#ContactUs">Contact Us</a>
               </li>
             </ul>
             <form className="d-flex mx-4" role="search">

@@ -114,9 +114,7 @@
   text-align: center;
 }
 .image-containerr img{
-  border-style: solid;
-  border-color: rgb(20, 21, 90);
-  border-width: 0px 10px 0px 10px;
+height: 67vh;
 }
 
 .about-image {

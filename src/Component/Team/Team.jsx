@@ -14,6 +14,27 @@ const teamData = {
       imgSrc: sirazhar,
       link: "/about/azhar"
     },
+    {
+      name: "Imran Sarwar",
+      role: "CEO",
+      email: "Imran.sarwar@amtegrity.com",
+      imgSrc: sirazhar,
+      link: "/about/azhar"
+    },
+    {
+      name: "Imran Sarwar",
+      role: "CEO",
+      email: "Imran.sarwar@amtegrity.com",
+      imgSrc: sirazhar,
+      link: "/about/azhar"
+    },
+    {
+      name: "Imran Sarwar",
+      role: "CEO",
+      email: "Imran.sarwar@amtegrity.com",
+      imgSrc: sirazhar,
+      link: "/about/azhar"
+    },
     
   ],
   

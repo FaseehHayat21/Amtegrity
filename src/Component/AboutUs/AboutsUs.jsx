@@ -1,7 +1,7 @@
 import React from 'react';
 import './AboutUs.css';
 import video from '../../assets/we.mp4';
-import image from '../../assets/about1.jpg';
+import image from '../../assets/about4.jpg';
 import advisory from '../../assets/whoweare2.png';
 import mission from '../../assets/values-1.png';
 import vission from '../../assets/values-2.png';
@@ -18,7 +18,9 @@ export default function AboutUs() {
         <div className="text-container">
           <h2>About Us</h2>
           <p className="about">
-          Amtegrity Inc. is a leading provider of construction services, dedicated to delivering excellence in every project we undertake. Since our inception, we've been committed to upholding the highest standards of integrity, professionalism, and quality.
+          Amtegrity Inc. is a multi-disciplinary engineering and construction services company engaged in providing services for construction planning and scheduling, contract documentations, project monitoring and control, and other project related services.
+
+          We understand that successful project execution begins with meticulous planning and efficient scheduling. Whether you're embarking on a small-scale initiative or managing a large-scale enterprise project, our comprehensive services are tailored to meet your unique needs and deliver results that exceed your expectations.
           </p>
           <p className='about'> 
           Your premier partner in construction planning and design solutions. With a commitment to excellence, innovation, and integrity, we specialize in delivering comprehensive planning and design services that bring your vision to life.

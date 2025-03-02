@@ -28,9 +28,9 @@ export default function LandingPage() {
     <div id="Testimonials">
         <Testimonials/>
     </div>
-    <div id="PricingPage">
+    {/* <div id="PricingPage">
         <PricingPage/>
-    </div>
+    </div> */}
     <div id="Team">
         <Team/>
     </div>
